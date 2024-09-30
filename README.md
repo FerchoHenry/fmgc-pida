@@ -8,16 +8,16 @@
 
 ### Tabla de Contenido:
 
-1. [Descripción](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#descripci%C3%B3n)
-2. [Estructura del proyecto](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#estructura-del-proyecto)
-3. [Consigna](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#consigna-del-proyecto)
-4. [Datasets](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#material-de-apoyo)
-5. [Requerimientos](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#requerimientos-del-proyecto-requerimientos-de-aprobaci%C3%B3n)
-6. [EDA](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#implementaci%C3%B3n-deployment)
-7. [Analisis](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#sistema-de-recomendaci%C3%B3n)
-8. [Material de Apoyo](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#material-de-apoyo)
-9. [Dashboard](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#material-de-apoyo)
-10. [Kpis](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#material-de-apoyo)
+1. [Descripción](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#descripci%C3%B3n)
+2. [Estructura del proyecto](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#estructura-del-proyecto)
+3. [Consigna](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#consigna-del-proyecto)
+4. [Datasets](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#consigna-del-proyecto)
+5. [Requerimientos](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#requerimientos)
+6. [EDA](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#eda-exploratory-data-analysis)
+7. [Analisis](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#analisis)
+8. [Material de Apoyo](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#material-de-apoyo)
+9. [Dashboard](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#dashboard)
+10. [Kpis](https://github.com/FerchoHenry/fmgc-pida/blob/main/README.md#kpis)
 
 
 ## **Descripción:**
