@@ -1,6 +1,13 @@
 # fmgc-pida
 Repositorio de trabajo correspondiente al trabajo practico individual Nro 2 Data Analyst
 
+Portada
+<p align="center">
+<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/portada_pida.jpg"  height=500>
+</p>
+
+
+
 evolucion conectividad
 <p align="center">
 <img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/evalucion_conectividad.png"  height=500>
