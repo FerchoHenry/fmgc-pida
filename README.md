@@ -22,9 +22,34 @@
 
 ## **Descripción:**
 
+Una empresa prestadora de servicios de telecomunicaciones nos encarga la realización de un análisis completo que permita reconocer el comportamiento del sector de telecomunicaciones a nivel nacional. Debemos considerar que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
+
 ## Estructura del proyecto:
 
+cambiar imagen:
+<p align="center">
+<img src="https://github.com/FerchoHenry/fmgc-pimlops/blob/main/imagenes/estructuraproyecto.png"  height=500>
+</p>
+
 ## Consigna del proyecto
+
+Debemos realizar un análisis exploratorio de los datos en un notebook donde estaran los pasos documentados con claridad, con las conclusiones correspondientes en cada gráfico empleado y análisis de lo que vamos observando, utilizaremos celdas **`Markdown`** para tal fin. La prolijidad del notebook será un aspecto que consideraremos. Deberemos tener en cuenta varios aspectos indispensables ,como son : búsqueda de valores faltantes, valores atípicos/extremos u outliers y registros duplicados. Asimismo, la utilización de gráficos coherentes según la tipología de variable que corresponda resulta esencial.
+
+Ademas deberemos realizar un **`Dashboard`** que debera ser funcional y coherente con el storytelling. El dasbhoard debera incluir filtros, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos. Es decir, será indispensable que sea interactivo. También, se espera que el diseño que implementen facilite la interpretación de la información y su análisis, siendo importante, para ello, la claridad en la presentación de los datos, aspectos inherentes a la esteticidad, elección coherente de los gráficos según las variables a visualizar, entre otros ítems.
+
+Otro factor a realizar sera un **`Analisis`** del cual no se considerará solamente la producción de gráficos con datos -dashboard-, sino también los análisis y conclusiones que puedan extraer a partir de ellos.
+
+Todo esto teniendo en cuenta los puntos detallados en la [Rubrica_de_Evaluacion](https://docs.google.com/spreadsheets/d/e/2PACX-1vTy9Ome3iLIl40SZ2jciZLiwARr9MVXfo_Mud3vVCin9P4zroAw_oxVQVch6m4TKivmUjFrYJKMJJhS/pubhtml)
+
+
+## Datasets
+
+* Para el analisis de ingresos vs moneda dolar se extrajo informacion de tipo de cambio segun año (a mitad de primer trimestre) desde pagina oficial del BCRA
+
+fuente:
+https://www.bcra.gob.ar/PublicacionesEstadisticas/Planilla_cierre_de_cotizaciones.asp
+
+* Además se separó la hoja Acc de velocidades generando un nuevo archivo con la info agrupadas segun caegorias de velocidades.
 
 ## Requerimientos
 
@@ -76,8 +101,6 @@ Esta fórmula te ayudará a calcular el KPI para medir el aumento en el acceso a
 Ejemplo de uso:  
 KPI = ((510 - 500) / 500) * 100 = 2%  
 Esto indicaría un aumento del 2% en el acceso a Internet en esa provincia para el próximo trimestre.  
-## MUY IMPORTANTE   
-repasar qué es un KPI y cómo se diferencia de una métrica convencional. En el material de apoyo tienen lectura que puede ser de ayuda.  
 # Repositorio de GitHub  
 El repositorio debe contener un Readme principal donde presenten, en una primera instancia, de forma general su proyecto y detallen qué hay en cada archivo/carpeta del propio repositorio. Este Readme no puede ser el mismo de la consigna que nosotros les entregamos. A su vez, el Readme debe incluir un reporte de análisis con base en sus dashboards, así como el análisis y la funcionalidad de los KPIs sugeridos.  
 Desafíate y no te quedes siendo Junior, sé Junior Advanced  
