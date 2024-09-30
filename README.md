@@ -1,6 +1,36 @@
 # fmgc-pida
 Repositorio de trabajo correspondiente al trabajo practico individual Nro 2 Data Analyst
 
+evolucion conectividad
+<p align="center">
+<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/evalucion_conectividad.png"  height=500>
+</p>
+
+evolucion Accesos a tecnologia:
+<p align="center">
+<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/evolucion_acc_tecnologia.png"  height=500>
+</p>
+
+evolucion velocidades
+<p align="center">
+<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/evolucion_velocidades.png"  height=500>
+</p>
+
+Ingresos y comparacion en USd:
+<p align="center">
+<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/ingresos_usd.png"  height=500>
+</p>
+
+### Tabla de Contenido:
+
+1. [Descripción](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#descripci%C3%B3n)
+2. [Estructura del proyecto](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#estructura-del-proyecto)
+3. [Consigna](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#consigna-del-proyecto)
+4. [Requerimientos](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#requerimientos-del-proyecto-requerimientos-de-aprobaci%C3%B3n)
+5. [Deploy](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#implementaci%C3%B3n-deployment)
+6. [Recomendador](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#sistema-de-recomendaci%C3%B3n)
+7. [Material de Apoyo](https://github.com/FerchoHenry/fmgc-pimlops?tab=readme-ov-file#material-de-apoyo)
+
 
 # Propuesta de trabajo -mínimos entregables-  
 Es importante que a la hora de empezar a desarrollar cada item, y tu demo, te ayudes tambien de la rúbrica de evaluación. 😄  
