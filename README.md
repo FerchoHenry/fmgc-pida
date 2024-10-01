@@ -26,7 +26,7 @@ Una empresa prestadora de servicios de telecomunicaciones nos encarga la realiza
 
 cambiar imagen:
 <p align="center">
-<img src="https://github.com/FerchoHenry/fmgc-pimlops/blob/main/imagenes/estructuraproyecto.png"  height=500>
+<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/estructuraproyecto.png"  height=500>
 </p>
 
 ## Consigna del proyecto
