@@ -81,11 +81,15 @@ Ingresos y comparacion en USd:
 </p>
 
 ## Dashboard  
-Debe ser funcional y coherente con el storytelling. El dasbhoard tiene que incluir filtros, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos. Es decir, es indispensable que sea interactivo. También, se espera que el diseño que implementen facilite la interpretación de la información y su análisis, siendo importante, para ello, la claridad en la presentación de los datos, aspectos inherentes a la esteticidad, elección coherente de los gráficos según las variables a visualizar, entre otros ítems.
+
+Se realizo en PowerBI con la idea de poder realizar un storytelling. El mismo incluye filtros, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos.Se priorizó que el diseño facilite la interpretación de la información y su análisis.
+El mismo se puede encontrar en : [Dashboard](https://github.com/FerchoHenry/fmgc-pida/blob/main/notebooks/EDA.ipynb)
   
-## KPIs  
-Debes graficar y medir el KPI propuesto a continuación, representándolo adecuadamente en el dashboard. A su vez, tambíen tienes que proponer, medir y graficar dos KPIs que consideres relevantes para la temática. 
-El KPI propuesto es:
+## KPIs 
+ 
+Se representan 3 KPIs:
+
+1_ El KPI propuesto es:
 - *Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia*.
 La fórmula es la siguiente:
 
@@ -104,6 +108,9 @@ KPI = ((510 - 500) / 500) * 100 = 2%
 
 Esto indicaría un aumento del 2% en el acceso a Internet en esa provincia para el próximo trimestre.
 
+2_ Segundo KPI
+
+3_ Tercer KPI
 
  
 
