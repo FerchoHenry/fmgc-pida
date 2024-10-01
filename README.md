@@ -25,7 +25,7 @@ Una empresa prestadora de servicios de telecomunicaciones nos encarga la realiza
 ## Estructura del proyecto:
 
 <p align="center">
-<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/estructuraproyecto2.png"  height=100>
+<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/estructuraproyecto2.png"  height=200>
 </p>
 
 ## Consigna del proyecto
