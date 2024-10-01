@@ -60,25 +60,38 @@ El mismo se puede visualizar desde [EDA](https://github.com/FerchoHenry/fmgc-pid
 
 ## Analisis
 
-evolucion conectividad
+### Evolucion conectividad:
 <p align="center">
 <img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/evalucion_conectividad.png"  height=500>
 </p>
 
-evolucion Accesos a tecnologia:
+### Del grafico podemos observar que la conectividad sobre los hogares y sobre los habitantes ambas crecieron en los ultimos años.
+
+### Evolucion Accesos a tecnologia:
 <p align="center">
 <img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/evolucion_acc_tecnologia.png"  height=500>
 </p>
 
-evolucion velocidades
+#### Del siguiente grafico se puede llegar a las siguientes deducciones:  
+*   La tecnologia CABLEMODEM es la que al primer trimestre del 2024 presenta mayor numero de accesos, la misma presenta un movimiento lateral desde el 2022  
+*   La tecnologia ADSL era la de mayor numero de accesos en el 2014 , luego del 216 presenta una baja logaritmica
+*   Fibra Optica es la tecnologia con mayor tasa de creciemiento desde el 2021 se pudiera sugerir que dentro de unos años podria superar al CABLEMODEM  
+*   La tecnologia Wireless presenta un comportamiento lateral con tendencia levemente positiva
+
+
+### Evolucion velocidades:
 <p align="center">
 <img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/evolucion_velocidades.png"  height=500>
 </p>
 
-Ingresos y comparacion en USd:
+#### Se puede observar que la curva de velocidad avanza de manera lineal hasta el 2017 para luego desde ahi tomar un comportamiento exponencial, esto comparado con las curvas de tecnologias aplicadas por año se explica en el predominio de tecnologias como fibra optica las cuales tienen mayor ancho de banda
+
+### Ingresos y comparacion en USd:
 <p align="center">
 <img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/ingresos_usd.png"  height=500>
 </p>
+
+#### Si bien el grafico de ingresos muestra un fuerte ascenso en el ultimo periodo su contraste en moneda dolar indica que la misma disminuyó.
 
 ## Dashboard  
 
