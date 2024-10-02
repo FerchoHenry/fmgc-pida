@@ -86,6 +86,14 @@ El mismo se puede visualizar desde [EDA](https://github.com/FerchoHenry/fmgc-pid
 
 #### Se puede observar que la curva de velocidad avanza de manera lineal hasta el 2017 para luego desde ahi tomar un comportamiento exponencial, esto comparado con las curvas de tecnologias aplicadas por año se explica en el predominio de tecnologias como fibra optica las cuales tienen mayor ancho de banda
 
+### Analisis Geografico y velocidades:
+
+<p align="center">
+<img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/Geografico.png"  height=500>
+</p>
+
+### Del siguiente Dashboard se puede ver por un lado informacion en el mapa segun el radio de la burbuja que provincia cuenta con mayor numero de conexiones y cuales no (cualitativamente) ademas en las provincias del mapa donde no figura una burbuja o es pequeña nos da informacion donde podria haber un nicho de mercado por evaluar. Ademas en el grafico de torta podemos evaluar por cada provincia el porcentaje de implementacion de cada tecnologia por provincia. Por ultimo tambien se puede evaluar el rango de velocidades de cada provincia, si bien esta el top 6 de provincias selecionando las provincias en el segmentador de la izquierda se puede indentificar a cada una
+
 ### Ingresos y comparacion en USd:
 <p align="center">
 <img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/ingresos_usd.png"  height=500>
@@ -96,7 +104,7 @@ El mismo se puede visualizar desde [EDA](https://github.com/FerchoHenry/fmgc-pid
 ## Dashboard  
 
 Se realizo en PowerBI con la idea de poder realizar un storytelling. El mismo incluye filtros, permitiendo explorar detalladamente los datos con la selección de cada uno de ellos.Se priorizó que el diseño facilite la interpretación de la información y su análisis.
-El mismo se puede encontrar en : [Dashboard](https://github.com/FerchoHenry/fmgc-pida/blob/main/notebooks/EDA.ipynb)
+El mismo se puede encontrar en : [Dashboard](https://github.com/FerchoHenry/fmgc-pida/blob/main/reports/Pida-fmgc.pbix)
   
 ## KPIs 
  
@@ -121,9 +129,6 @@ KPI = ((510 - 500) / 500) * 100 = 2%
 
 Esto indicaría un aumento del 2% en el acceso a Internet en esa provincia para el próximo trimestre.
 
-2_ Segundo KPI
-
-3_ Tercer KPI
 
  
 
