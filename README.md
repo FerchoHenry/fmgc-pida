@@ -92,7 +92,7 @@ El mismo se puede visualizar desde [EDA](https://github.com/FerchoHenry/fmgc-pid
 <img src="https://github.com/FerchoHenry/fmgc-pida/blob/main/imagenes/Geografico.png"  height=500>
 </p>
 
-### Del siguiente Dashboard se puede ver por un lado informacion en el mapa segun el radio de la burbuja que provincia cuenta con mayor numero de conexiones y cuales no (cualitativamente) ademas en las provincias del mapa donde no figura una burbuja o es pequeña nos da informacion donde podria haber un nicho de mercado por evaluar. Ademas en el grafico de torta podemos evaluar por cada provincia el porcentaje de implementacion de cada tecnologia por provincia. Por ultimo tambien se puede evaluar el rango de velocidades de cada provincia, si bien esta el top 6 de provincias selecionando las provincias en el segmentador de la izquierda se puede indentificar a cada una
+#### Del siguiente Dashboard se puede ver por un lado informacion en el mapa segun el radio de la burbuja que provincia cuenta con mayor numero de conexiones y cuales no (cualitativamente) ademas en las provincias del mapa donde no figura una burbuja o es pequeña nos da informacion donde podria haber un nicho de mercado por evaluar. Ademas en el grafico de torta podemos evaluar por cada provincia el porcentaje de implementacion de cada tecnologia por provincia. Por ultimo tambien se puede evaluar el rango de velocidades de cada provincia, si bien esta el top 6 de provincias selecionando las provincias en el segmentador de la izquierda se puede indentificar a cada una
 
 ### Ingresos y comparacion en USd:
 <p align="center">
